@@ -1,0 +1,12 @@
+E:\iti\c#\day13\learning\learning\bin\Debug\learning.exe.config
+E:\iti\c#\day13\learning\learning\bin\Debug\learning.exe
+E:\iti\c#\day13\learning\learning\bin\Debug\learning.pdb
+E:\iti\c#\day13\learning\learning\bin\Debug\EntityFramework.dll
+E:\iti\c#\day13\learning\learning\bin\Debug\EntityFramework.SqlServer.dll
+E:\iti\c#\day13\learning\learning\bin\Debug\EntityFramework.xml
+E:\iti\c#\day13\learning\learning\bin\Debug\EntityFramework.SqlServer.xml
+E:\iti\c#\day13\learning\learning\obj\Debug\learning.csproj.AssemblyReference.cache
+E:\iti\c#\day13\learning\learning\obj\Debug\learning.csproj.CoreCompileInputs.cache
+E:\iti\c#\day13\learning\learning\obj\Debug\learning.csproj.CopyComplete
+E:\iti\c#\day13\learning\learning\obj\Debug\learning.exe
+E:\iti\c#\day13\learning\learning\obj\Debug\learning.pdb
